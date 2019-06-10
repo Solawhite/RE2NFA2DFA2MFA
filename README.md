@@ -1,4 +1,4 @@
-# RE2NFA2DFA2MFA
+# RE--NFA--DFA--MFA
 1. Use Thompson algorithm to convert the regular expression to NFA  
 2. Use the subset construct to convert NFA to DFA  
 3. Minimize DFA to MFA  
